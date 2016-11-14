@@ -1,0 +1,28 @@
+body {
+  background-color: black;
+}
+
+.left{
+    left: 0%;
+}
+
+.right{
+    float: right;
+}
+
+.head{
+  position: fixed;
+  width: 100%;
+  height: 7vw;
+  background-color: white;
+}
+
+.bubble{
+  height: 9vw;
+  width: 9vw;
+  border-radius: 50%;
+  background-color: black;
+  border: .25vw solid grey;
+  margin-right: 2vw;
+  margin-top: .5vw;
+}
